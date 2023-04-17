@@ -1,0 +1,3 @@
+﻿  1.c
+C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\queueLinkedList\1.c(14,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'queue' 왼쪽은 무시됩니다.
+  queueLinkedList.vcxproj -> C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\x64\Debug\queueLinkedList.exe

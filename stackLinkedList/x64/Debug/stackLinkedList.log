@@ -1,0 +1,6 @@
+﻿  1.c
+C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\stackLinkedList\1.c(14,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'stack' 왼쪽은 무시됩니다.
+C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\stackLinkedList\1.c(34,15): warning C4047: '함수': 'stackpointer'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\stackLinkedList\1.c(34,14): warning C4024: 'print_node': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\stackLinkedList\1.c(54,21): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  stackLinkedList.vcxproj -> C:\Users\cheu0\OneDrive\바탕 화면\C언어\자료구조\x64\Debug\stackLinkedList.exe
